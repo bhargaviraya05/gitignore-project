@@ -1,4 +1,5 @@
 # test.txt
 config.json
 *.txt
-temp/
+!test.txt
+/temp
